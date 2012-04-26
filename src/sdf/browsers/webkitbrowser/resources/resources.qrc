@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>text-html.png</file>
+    <file>process-stop.png</file>
+    <file>list-add.png</file>
+    <file>go-home.png</file>
+    <file>view-refresh.png</file>
+    <file>go-previous.png</file>
+    <file>SDF.png</file>
+    <file>dialog-close.png</file>
+    <file>go-next.png</file>
+    <file>utilities-terminal.png</file>
+    <file>image-bmp.png</file>
+  </qresource>
+</RCC>
